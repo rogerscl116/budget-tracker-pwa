@@ -1,6 +1,5 @@
 // create variable to hold db connection
 let db;
-
 // establish a connection to IndexedDB database
 const request = indexedDB.open('budget_tracker', 1);
 
@@ -69,6 +68,8 @@ request.onsuccess = function(event) {
             const budgetObjectStore = transaction.objectStore('new_budget');
             // clear all items in your store
             budgetObjectStore.clear();
+
+            alert('All records have been updated!')
           })
           .catch(err => {
             // set reference to redirect back here
