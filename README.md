@@ -7,7 +7,7 @@
 A budget tracker application that allows for offline access and functionality. The user is able to add expenses and deposits to their budget with or without an internet connection.
 
 ### Screenshots
-![Budget Tracker PWA](./assets/images/)
+![Budget Tracker PWA](./public/images/budget-tracker-screenshot.jpg)
 
 ## Table of Contents
  * [Installation](#installation)
