@@ -6,6 +6,8 @@
 ## Description
 A budget tracker application that allows for offline access and functionality. The user is able to add expenses and deposits to their budget with or without an internet connection.
 
+Deployed application on heroku: https://budget-tracker-pwa6249261.herokuapp.com/
+
 ### Screenshots
 ![Budget Tracker PWA](./public/images/budget-tracker-screenshot.jpg)
 
@@ -16,10 +18,11 @@ A budget tracker application that allows for offline access and functionality. T
  * [Questions](#questions)
         
 ## Installation
-
+Clone this repository and enter `npm install` in the terminal to install the necessary dependencies.
    
 ## Usage
-
+Enter `node server.js` or `npm start` to connect to the localhost.
+Open http://localhost:3001/ to use the application.
 
 ## Contributing
 Charity Rogers
