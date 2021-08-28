@@ -9,7 +9,10 @@ A budget tracker application that allows for offline access and functionality. T
 Deployed application on heroku: https://budget-tracker-pwa6249261.herokuapp.com/
 
 ### Screenshots
-![Budget Tracker PWA](./public/images/budget-tracker-screenshot.jpg)
+#### Online
+![Budget Tracker PWA Online](./public/images/budget-tracker-screenshot.jpg)
+#### Offline
+![Budget Tracker PWA Offline](./public/images/budget-tracker-screenshot2.jpg)
 
 ## Table of Contents
  * [Installation](#installation)
@@ -22,7 +25,7 @@ Clone this repository and enter `npm install` in the terminal to install the nec
    
 ## Usage
 Enter `node server.js` or `npm start` to connect to the localhost.
-Open http://localhost:3001/ to use the application.
+Open `http://localhost:3001/` to use the application.
 
 ## Contributing
 Charity Rogers
